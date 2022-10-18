@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   parse_dict.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fgeslin <marvin@42quebec.com>              +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 14:59:15 by fgeslin           #+#    #+#             */
 /*   Updated: 2022/10/02 20:37:09 by fgeslin          ###   ########.fr       */
