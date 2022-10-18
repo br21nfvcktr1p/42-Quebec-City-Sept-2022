@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fjean-ra <fjean-ra@student.42quebec.com    +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>    +#+  +:+       +#+       */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/22 20:44:25 by fjean-ra          #+#    #+#             */
 /*   Updated: 2022/09/27 09:03:42 by fjean-ra         ###   ########.fr       */

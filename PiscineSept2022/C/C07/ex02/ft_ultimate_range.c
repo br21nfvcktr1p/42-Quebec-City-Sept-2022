@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_range.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fjean-ra <marvin@42quebec.com>             +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>    +#+  +:+       +#+       */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 16:42:35 by fjean-ra          #+#    #+#             */
 /*   Updated: 2022/10/05 12:54:54 by fjean-ra         ###   ########.fr       */

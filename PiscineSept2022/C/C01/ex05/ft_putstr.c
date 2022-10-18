@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fjean-ra <marvin@42quebec.com>             +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/20 13:00:44 by fjean-ra          #+#    #+#             */
 /*   Updated: 2022/09/22 10:46:51 by fjean-ra         ###   ########.fr       */

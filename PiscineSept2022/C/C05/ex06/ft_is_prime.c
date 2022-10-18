@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_prime.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fjean-ra <marvin@42quebec.com>             +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>    +#+  +:+       +#+       */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 08:12:20 by fjean-ra          #+#    #+#             */
 /*   Updated: 2022/10/03 08:47:37 by fjean-ra         ###   ########.fr       */

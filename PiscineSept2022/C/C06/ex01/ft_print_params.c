@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_parmas.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fjean-ra <fjean-ra@student.42quebec.com    +#+  +:+       +#+        */
+/*   By: fjean-ra <fjean-ra@student.42quebec.com>    +#+  +:+       +#+       */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/28 12:59:39 by fjean-ra          #+#    #+#             */
 /*   Updated: 2022/10/01 16:45:20 by fjean-ra         ###   ########.fr       */
